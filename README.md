@@ -5,4 +5,5 @@
 4. Step 4
 5. Step 5
 6. Step 6
+7. Step 7
 8. Step 8
